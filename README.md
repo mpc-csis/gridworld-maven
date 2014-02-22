@@ -1,6 +1,10 @@
 # GridWorld Case Study
 
-We will be following the exercises in the [student guide](http://www.collegeboard.com/prod_downloads/student/testing/ap/compsci_a/ap07_gridworld_studmanual_appends_v3.pdf).
+We will be following the exercises in the [student guide](http://www.collegeboard.com/prod_downloads/student/testing/ap/compsci_a/ap07_gridworld_studmanual_appends_v3.pdf). For Lab05, you will complete _Part 1: Observing and Experimenting with GridWorld_
+
+JavaDocs for GridWorld can be found at [http://www.greenteapress.com/thinkapjava/javadoc/gridworld/](http://www.greenteapress.com/thinkapjava/javadoc/gridworld/)
+
+The source code for GridWorld is also available at [http://hohonuuli.bitbucket.org/csis10a/ch05/GridWorldCode.zip](http://hohonuuli.bitbucket.org/csis10a/ch05/GridWorldCode.zip)
 
 ## Getting Started
 
