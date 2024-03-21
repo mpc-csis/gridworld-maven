@@ -1,1 +1,1 @@
-mvn exec:java -Dexec.mainClass=BugRunner
+mvn exec:java "-Dexec.mainClass=BugRunner"
